@@ -1,0 +1,5 @@
+Castellanos|Fernando|5/5/2013 12:00:00 AM|34000|6|28560
+Peniche|Jose|8/11/2019 9:53:09 AM|0|0|0
+Rodriguez|Luis|7/13/2015 12:00:00 AM|10|4|8.4
+Rodriguez|Luis|7/13/2015 12:00:00 AM|10|4|8.4
+Herrera|Gerardo|3/6/2016 12:00:00 AM|20|3|16.8

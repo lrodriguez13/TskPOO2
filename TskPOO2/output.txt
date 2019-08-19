@@ -1,0 +1,5 @@
+castellanos|fernando|10/10/2010 12:00:00 AM|10.5|8|8.82
+rodriguez|luis|4/8/2010 12:00:00 AM|10.5|9|8.82
+Tio|Abel|4/8/2008 12:00:00 AM|10.5|11|8.82
+ Peniche| Jose Luis|4/8/2015 12:00:00 AM|10|4|8.4
+Calderon|Juan Carlos|4/8/2013 12:00:00 AM|10|6|8.4
